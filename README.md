@@ -1,5 +1,6 @@
-### shell脚本：
-一键给PVE添加CPU频率和各种温度显示，NVME硬盘，机械硬盘，固态硬盘信息：
+### shell：
+Add CPU frequency and various temperature displays, NVME hard drive, mechanical hard drive, and solid state drive information to PVE with one click:
+
 
 
 
